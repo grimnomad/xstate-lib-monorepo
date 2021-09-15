@@ -5,6 +5,7 @@
     "lerna": "^3.16.4"
   },
   "scripts": {
-    "lerna": "lerna"
+    "lerna": "lerna",
+    "bootstrap": "lerna bootstrap"
   }
 }
